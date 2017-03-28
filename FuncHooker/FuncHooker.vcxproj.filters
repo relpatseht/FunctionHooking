@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="Header Files\private">
+      <UniqueIdentifier>{361c11a5-6fc0-4ac0-9ae9-912614e7d61c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\public">
+      <UniqueIdentifier>{fbcba591-d1b1-42e2-81a9-25318f317067}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="privateInc\DynamicCodeAllocator.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="privateInc\InjectionStub.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="privateInc\CodeRelocator.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="privateInc\Disassembler.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="privateInc\Operation.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="privateInc\Operand.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="privateInc\MemoryTree.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="privateInc\FuncHookerCPP.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\FuncHookerFactory.h">
+      <Filter>Header Files\public</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\ArgTypeTraits.h">
+      <Filter>Header Files\public</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\FuncHooker.h">
+      <Filter>Header Files\public</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\MMP.h">
+      <Filter>Header Files\public</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\DynamicCodeAllocator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\FuncHooker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\InjectionStub.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\CodeRelocator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Disassembler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Operation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Operand.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\MemoryTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\FuncHookerCPP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
