@@ -7,8 +7,6 @@
  *  \brief		Manages a block of executable memory on a different process
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #include "privateInc/CodeBuffer.h"
 #include "PageManager.h"
 #include "OSMemoryRights.h"

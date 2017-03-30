@@ -7,8 +7,6 @@
  *  \brief		Grabs all threads on a process
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #ifndef REMOTE_THREAD_MANAGER
 #define REMOTE_THREAD_MANAGER
 

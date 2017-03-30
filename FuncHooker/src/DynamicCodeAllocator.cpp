@@ -7,8 +7,6 @@
  *  \brief		Allocates executable memory
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #include <cassert>
 #include <algorithm>
 #include "PageManager.h"

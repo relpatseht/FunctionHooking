@@ -7,8 +7,6 @@
  *  \brief		Manages a single machine code instruction
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #include <new>
 #include <cassert>
 #include "privateInc/Operand.h"

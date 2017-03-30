@@ -7,8 +7,6 @@
  *  \brief		Provides a nice interface to executing functions on a remote process.
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #ifndef REMOTE_FUNCTION_H
 #define REMOTE_FUNCTION_H
 

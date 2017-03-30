@@ -7,8 +7,6 @@
  *  \brief		Macro meta-programming library
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #ifndef MMP_H
 #define MMP_H
 

@@ -7,8 +7,6 @@
  *  \brief		Grabs all threads on a process
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #include "RemoteThreadManager.h"
 #include "ProcessHandleManager.h"
 

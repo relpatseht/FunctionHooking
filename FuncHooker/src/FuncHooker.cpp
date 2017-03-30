@@ -9,8 +9,6 @@
  *              option.
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 
 #include "FuncHooker.h"
 #include "privateInc/FuncHookerCPP.h"

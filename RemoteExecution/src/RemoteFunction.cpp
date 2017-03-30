@@ -7,8 +7,6 @@
  *  \brief		Provides a nice interface to executing functions on a remote process.
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #include "RemoteFunction.h"
 #include "SymbolFinder.h"
 #include "ASMStubs.h"

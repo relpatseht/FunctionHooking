@@ -7,8 +7,6 @@
  *  \brief		A little bit of code for the trampoline storage
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #ifndef INJECTION_STUB_H
 #define INJECTION_STUB_H
 

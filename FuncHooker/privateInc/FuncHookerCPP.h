@@ -7,8 +7,6 @@
  *  \brief		Internal C++ func hooker object
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #ifndef FUNC_HOOKER_CPP_H
 #define FUNC_HOOKER_CPP_H
 

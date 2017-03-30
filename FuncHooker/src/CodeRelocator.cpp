@@ -8,8 +8,6 @@
  *              offsets intact
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #include <exception>
 #include <cstring>
 #include <new>

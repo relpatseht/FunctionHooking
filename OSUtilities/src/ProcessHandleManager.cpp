@@ -7,8 +7,6 @@
  *  \brief		Singleton for handling all process handles
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #include "ProcessHandleManager.h"
 
 ProcessHandleManager::ProcessHandleManager() : procIdHandles()

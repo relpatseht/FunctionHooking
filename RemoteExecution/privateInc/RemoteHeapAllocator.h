@@ -7,8 +7,6 @@
  *  \brief		Heap allocator with a different process's memory
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #ifndef HEAP_ALLOCATOR_H
 #define HEAP_ALLOCATOR_H
 

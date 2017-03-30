@@ -7,8 +7,6 @@
  *  \brief		Dissassembles x86 and x64 machine code
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #ifndef DISASSEMBLER_H
 #define DISASSEMBLER_H
 

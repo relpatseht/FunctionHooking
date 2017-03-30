@@ -7,8 +7,6 @@
  *  \brief		Manages a handle to a process
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #ifndef PROCESS_HANDLE_H
 #define PROCESS_HANDLE_H
 

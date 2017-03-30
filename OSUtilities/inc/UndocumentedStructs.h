@@ -7,8 +7,6 @@
  *  \brief		Definitions for some undocumented windows structures.
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #ifndef UNDOCUMENTED_STRUCTS_H
 #define UNDOCUMENTED_STRUCTS_H
 

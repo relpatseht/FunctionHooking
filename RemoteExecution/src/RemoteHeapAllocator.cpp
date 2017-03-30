@@ -7,8 +7,6 @@
  *  \brief		Heap allocator with a different process's memory
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #include "privateInc/RemoteHeapAllocator.h"
 #include "PageManager.h"
 #include <cstdint>

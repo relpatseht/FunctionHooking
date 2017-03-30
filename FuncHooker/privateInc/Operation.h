@@ -7,8 +7,6 @@
  *  \brief		Manages a single machine code instruction
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #ifndef OPERATION_H
 #define OPERATION_H
 

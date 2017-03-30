@@ -7,8 +7,6 @@
  *  \brief		Manages a thread on a process
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #include "RemoteThread.h"
 #include <cassert>
 #include <cstdint>

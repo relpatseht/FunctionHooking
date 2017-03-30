@@ -7,8 +7,6 @@
  *  \brief		Manages another processes memory
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #ifndef REMOTE_MEMORY_MANAGER_H
 #define REMOTE_MEMORY_MANAGER_H
 

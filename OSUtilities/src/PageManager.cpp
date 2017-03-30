@@ -7,8 +7,6 @@
  *  \brief		Manages pages of memory all platform independent like
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #include "PageManager.h"
 #include "OSMemoryRights.h"
 #include "ProcessHandleManager.h"

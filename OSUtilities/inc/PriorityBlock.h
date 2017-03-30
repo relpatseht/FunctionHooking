@@ -7,8 +7,6 @@
  *  \brief		Scoped thread priority changer
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #ifndef PRIORITY_BLOCK_H
 #define PRIORITY_BLOCK_H
 

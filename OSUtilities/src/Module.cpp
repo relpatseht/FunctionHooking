@@ -7,8 +7,6 @@
  *  \brief		Manages a single module in a process
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #include "Module.h"
 #include <cstdint>
 #include "ProcessHandleManager.h"

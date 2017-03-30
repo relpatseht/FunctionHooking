@@ -7,8 +7,6 @@
  *  \brief		Scoped object to pause all threads but the current
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #include "SingleThreadBlock.h"
 #include "RemoteThread.h"
 #include "RemoteThreadManager.h"

@@ -7,8 +7,6 @@
  *  \brief		Provides a C++11 interface to function hooking.
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #ifndef FUNC_HOOKER_FACTORY_H
 #define FUNC_HOOKER_FACTORY_H
 

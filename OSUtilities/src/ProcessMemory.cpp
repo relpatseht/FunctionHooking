@@ -7,8 +7,6 @@
  *  \brief		Read and writes to memory of a process
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #include "ProcessMemory.h"
 #include "ProcessHandleManager.h"
 #include <cstring>

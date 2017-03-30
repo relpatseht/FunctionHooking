@@ -7,8 +7,6 @@
  *  \brief		X86 and X64 machine code instructions as structures.
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #include "ASMStubs.h"
 #include <cassert>
 

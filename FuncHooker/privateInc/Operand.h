@@ -7,8 +7,6 @@
  *  \brief		Manages a single instruction operand
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #ifndef OPERAND_H
 #define OPERAND_H
 

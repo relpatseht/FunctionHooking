@@ -7,8 +7,6 @@
  *  \brief		Platform independed memory right translation
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #ifndef OS_MEMORY_RIGHTS_H
 #define OS_MEMORY_RIGHTS_H
 

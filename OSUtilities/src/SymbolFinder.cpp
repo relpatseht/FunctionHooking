@@ -7,8 +7,6 @@
  *  \brief		Finds symbols by searching module exports and the pdb
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #include "SymbolFinder.h"
 #include "ProcessHandleManager.h"
 #include "ModuleExplorer.h"

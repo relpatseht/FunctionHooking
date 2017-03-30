@@ -9,8 +9,6 @@
  *              option.
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #ifndef FUNC_HOOKER_H
 #define FUNC_HOOKER_H
 

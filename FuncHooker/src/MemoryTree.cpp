@@ -7,8 +7,6 @@
  *  \brief		A special kind of bsearch tree where the nodes are the data
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #include "privateInc/MemoryTree.h"
 #include <cstdint>
 #include <algorithm>

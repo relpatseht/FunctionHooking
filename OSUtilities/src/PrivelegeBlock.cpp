@@ -7,8 +7,6 @@
  *  \brief		Scoped memory privelege changer
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #include "PrivelegeBlock.h"
 #include "OSMemoryRights.h"
 #include <cstdint>

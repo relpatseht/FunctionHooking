@@ -7,8 +7,6 @@
  *  \brief		Finds symbols by searching module exports and the pdb
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #ifndef SYMBOL_FINDER_H
 #define SYMBOL_FINDER_H
 

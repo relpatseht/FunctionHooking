@@ -8,8 +8,6 @@
  *              offsets intact
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #ifndef CODE_RELOCATOR_H
 #define CODE_RELOCATOR_H
 

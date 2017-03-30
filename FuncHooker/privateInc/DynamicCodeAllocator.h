@@ -7,8 +7,6 @@
  *  \brief		Allocates executable memory
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #ifndef DYNAMIC_CODE_ALLOCATOR_H
 #define DYNAMIC_CODE_ALLOCATOR_H
 

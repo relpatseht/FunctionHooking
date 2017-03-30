@@ -7,8 +7,6 @@
  *  \brief		Scoped memory privelege changer
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #ifndef PRIVELEGE_BLOCK_H
 #define PRIVELEGE_BLOCK_H
 

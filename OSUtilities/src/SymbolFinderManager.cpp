@@ -7,8 +7,6 @@
  *  \brief		Manages all active symbol finders
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #include "SymbolFinderManager.h"
 #include "SymbolFinder.h"
 

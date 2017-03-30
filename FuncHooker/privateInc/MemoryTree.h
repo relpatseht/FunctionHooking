@@ -7,8 +7,6 @@
  *  \brief		A special kind of bsearch tree where the nodes are the data
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #ifndef MEMORY_TREE_H
 #define MEMORY_TREE_H
 

@@ -7,8 +7,6 @@
  *  \brief		Scoped object to pause all threads but the current
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #ifndef SINGLE_THREAD_BLOCK_H
 #define SINGLE_THREAD_BLOCK_H
 

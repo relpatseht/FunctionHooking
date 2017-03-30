@@ -7,8 +7,6 @@
  *  \brief		Platform independed memory right translation
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #include "OSMemoryRights.h"
 
 #ifdef WIN32

@@ -7,8 +7,6 @@
  *  \brief		Manages a single module in a process
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #ifndef MODULE_H
 #define MODULE_H
 

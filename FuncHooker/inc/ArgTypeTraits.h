@@ -7,8 +7,6 @@
  *  \brief		Simple type traits library
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #ifndef ARG_TYPE_TRAITS_H
 #define ARG_TYPE_TRAITS_H
 

@@ -7,8 +7,6 @@
  *  \brief		Manages a handle to a process
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #include "ProcessHandle.h"
 
 #ifdef WIN32

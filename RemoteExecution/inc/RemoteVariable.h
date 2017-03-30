@@ -7,8 +7,6 @@
  *  \brief		Proxy to a variable on a different process.
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #ifndef REMOTE_VARIABLE_H
 #define REMOTE_VARIABLE_H
 

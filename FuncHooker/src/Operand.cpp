@@ -7,8 +7,6 @@
  *  \brief		Manages a single instruction operand
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #include "privateInc/Operand.h"
 
 Operand::Operand(const ud_op& operand) : type(operand.type), size(operand.size), value(operand.lval.uqword),

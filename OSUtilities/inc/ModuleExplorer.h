@@ -7,8 +7,6 @@
  *  \brief		Enumerates and manages modules in a process
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #ifndef MODULE_EXPLORER_H
 #define MODULE_EXPLORER_H
 

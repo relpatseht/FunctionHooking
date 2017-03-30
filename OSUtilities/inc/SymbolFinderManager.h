@@ -7,8 +7,6 @@
  *  \brief		Manages all active symbol finders
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #ifndef SYMBOL_FINDER_MANAGER_H
 #define SYMBOL_FINDER_MANAGER_H
 

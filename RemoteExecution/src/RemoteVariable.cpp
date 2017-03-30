@@ -7,8 +7,6 @@
  *  \brief		Proxy to a variable on a different process.
  */
 
-/* All Content © 2011 DigiPen (USA) Corporation, all rights reserved.              */
-
 #define NO_EXTERN_REMOTE_VARIABLE_VAL
 #include "RemoteVariable.h"
 #include "privateInc/CodeBuffer.h"
